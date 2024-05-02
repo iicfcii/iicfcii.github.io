@@ -8,37 +8,51 @@ layout: default
 
 I'm currently a Robotics PhD student in the Integrating Design, Engineering, and Analysis (IDEA) Lab led by Professor Dan Aukes at Arizona State University (ASU) (01/2021 - Present). I received my Master and Bachelor's degrees in Robotics Engineering from Worcester Polytechic Institue (WPI) (08/2012 - 12/2017). During that time, I was also a research assistant in the WPI Soft Robotics Lab run by Professor Cagdas Onal. Before my PhD, I cofounded a startup company called Orimagi, where I was in charge of the development and production of an educational origami robot kit. 
 
-My research focuses on the development of novel design and fabrication methods for affordable and accesible origami and soft robots. These robots excel at tasks where cost, compliance, and safety are priorities instead of precision and power. Studies of them also help us better balance rigidity and softness of robots for different applications. 
+My research focuses on design, fabrication, and control methods for accesible robots. These robots excel at tasks where cost, compliance, and safety are priorities instead of precision and power. Studies of them also help us better balance rigidity and softness, active and passive intelligence within robots for different applications. A list of my publications is available at [Google Scholar](https://scholar.google.com/citations?user=vo0rVaoAAAAJ&hl=en){:target="_blank"}.  
 
 # <a name="research"></a> Research
 
-In IDEALab, I am currently developing simulation models and fabrication pipelines to enable tuning and optimizations of dynamic laminate robots made from low-cost and compliant materials. The core of the robots are multi-layer, multi-material laminates that are cut, folded, and locked into three-dimensional mechanisms, providing desired motion and stiffness profiles. 
+## <a name="laminate quadruped"></a> Laminate Quadruped
+
+At IDEALab, I am developing simulation models, fabrication pipelines, and reinforcement learning framework to enable tuning and optimizations of dynamic laminate robots made from low-cost and compliant materials. The core of the robots are multi-layer, multi-material laminates that are cut, folded, and locked into three-dimensional mechanisms, providing desired motion and stiffness profiles. Even though I am focusing on a quadruped right now, I hope to extend and generalize this process to other platforms. 
+
+<iframe src="https://www.youtube.com/embed/hEq7MrkXNqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p></p>
 
 <iframe src="https://www.youtube.com/embed/RLCke-TzDjA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <p></p>
 
-* F. Chen and D. M. Aukes, “Direct Encoding of Tunable Stiffness Into an Origami-Inspired Jumping Robot Leg,” Journal of Mechanisms and Robotics, vol. 16, no. 3, Mar. 2023, [doi: 10.1115/1.4056958](https://doi.org/10.1115/1.4056958).
+* F. Chen, W. Tao, and D. M. Aukes, “Development of A Dynamic Quadruped with Tunable, Compliant Legs,” in 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Detroit, MI, USA: IEEE, Oct. 2023, pp. 495–502. [doi: 10.1109/IROS55552.2023.10342283](https://doi.org/10.1109/IROS55552.2023.10342283){:target="_blank"}.
 
-At WPI, I developed a hierarchical process of designing a series of affordable legged and aerial robots folded from plastic sheets. 
+* F. Chen and D. M. Aukes, “Direct Encoding of Tunable Stiffness Into an Origami-Inspired Jumping Robot Leg,” Journal of Mechanisms and Robotics, vol. 16, no. 3, Mar. 2023, [doi: 10.1115/1.4056958](https://doi.org/10.1115/1.4056958){:target="_blank"}.
+
+## <a name="foldable robots"></a> Foldable Robots
+
+At WPI Soft Robotics Lab, I developed a hierarchical process of designing a series of affordable legged and aerial robots folded from plastic sheets. 
 
 ![foldable robots](/assets/img/foldable robots.jpg)
 
-* M. Agheli, S. G. Faal, F. Chen, H. Gong, and C. D. Onal, “Design and fabrication of a foldable hexapod robot towards experimental swarm applications,” in 2014 IEEE International Conference on Robotics and Automation (ICRA), May 2014, pp. 2971–2976. [doi: 10.1109/ICRA.2014.6907287](https://doi.org/10.1109/ICRA.2014.6907287).
+* S. G. Faal et al., “Design, Fabrication, Experimental Analysis, and Test Flight of an Origami-Based Fixed-Wing Aerial Vehicle: µPlane,” presented at the ASME 2016 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, American Society of Mechanical Engineers Digital Collection, Dec. 2016. [doi: 10.1115/DETC2016-60477](https://doi.org/10.1115/DETC2016-60477){:target="_blank"}.
 
-* S. G. Faal, F. Chen, W. Tao, M. Agheli, S. Tasdighikalat, and C. D. Onal, “Hierarchical Kinematic Design of Foldable Hexapedal Locomotion Platforms,” Journal of Mechanisms and Robotics, vol. 8, no. 1, Aug. 2015, [doi: 10.1115/1.4030468](https://doi.org/10.1115/1.4030468).
+* S. G. Faal, F. Chen, W. Tao, M. Agheli, S. Tasdighikalat, and C. D. Onal, “Hierarchical Kinematic Design of Foldable Hexapedal Locomotion Platforms,” Journal of Mechanisms and Robotics, vol. 8, no. 1, Aug. 2015, [doi: 10.1115/1.4030468](https://doi.org/10.1115/1.4030468){:target="_blank"}.
 
-* S. G. Faal et al., “Design, Fabrication, Experimental Analysis, and Test Flight of an Origami-Based Fixed-Wing Aerial Vehicle: µPlane,” presented at the ASME 2016 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, American Society of Mechanical Engineers Digital Collection, Dec. 2016. [doi: 10.1115/DETC2016-60477](https://doi.org/10.1115/DETC2016-60477).
+* M. Agheli, S. G. Faal, F. Chen, H. Gong, and C. D. Onal, “Design and fabrication of a foldable hexapod robot towards experimental swarm applications,” in 2014 IEEE International Conference on Robotics and Automation (ICRA), May 2014, pp. 2971–2976. [doi: 10.1109/ICRA.2014.6907287](https://doi.org/10.1109/ICRA.2014.6907287){:target="_blank"}.
 
-I also designed a series of bending and linear pneumatic soft actuators along with their fabrication processes. They are the building blocks of a soft snake robot and are also used to study soft robot control algorithms. 
+## <a name="pneumetic soft actuators"></a> Pneumetic Soft Actuators
+
+I also designed a series of bending and linear pneumatic soft actuators along with their fabrication processes. The bending one also has integrated curvature sensing. They are the building blocks of a soft snake robot and are also used to study soft robot control algorithms. 
 
 ![soft robots](/assets/img/soft robots.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Nj37GofnDpY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <p></p>
 
-* M. Luo et al., “Toward Modular Soft Robotics: Proprioceptive Curvature Sensing and Sliding-Mode Control of Soft Bidirectional Bending Modules,” Soft Robotics, vol. 4, no. 2, pp. 117–125, Jun. 2017, [doi: 10.1089/soro.2016.0041](https://doi.org/10.1089/soro.2016.0041).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AH1djJ-46fU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p></p>
 
-* M. Luo et al., “Motion Planning and Iterative Learning Control of a Modular Soft Robotic Snake,” Frontiers in Robotics and AI, vol. 7, 2020, Accessed: Apr. 24, 2023. [doi: 10.3389/frobt.2020.599242](https://doi.org/10.3389/frobt.2020.599242)
+* M. Luo et al., “Motion Planning and Iterative Learning Control of a Modular Soft Robotic Snake,” Frontiers in Robotics and AI, vol. 7, 2020, [doi: 10.3389/frobt.2020.599242](https://doi.org/10.3389/frobt.2020.599242){:target="_blank"}.
+
+* M. Luo et al., “Toward Modular Soft Robotics: Proprioceptive Curvature Sensing and Sliding-Mode Control of Soft Bidirectional Bending Modules,” Soft Robotics, vol. 4, no. 2, pp. 117–125, Jun. 2017, [doi: 10.1089/soro.2016.0041](https://doi.org/10.1089/soro.2016.0041){:target="_blank"}.
 
 # <a name="startup"></a> Startup
 
