@@ -6,15 +6,15 @@ layout: default
 
 <img class="floating-right-image" width="200" src="/assets/img/self.jpg">
 
-I'm currently a Robotics PhD student in the [Integrating Design, Engineering, and Analysis (IDEA) Lab](https://idealab.asu.edu/){:target="_blank"} led by Professor Dan Aukes at Arizona State University (ASU) (01/2021 - Present). I received my Master and Bachelor's degrees in Robotics Engineering from Worcester Polytechic Institue (WPI) (08/2012 - 12/2017). During that time, I was also a research assistant in the [WPI Soft Robotics Lab](https://softrobotics.wpi.edu/){:target="_blank"} run by Professor Cagdas Onal. Before my PhD, I cofounded a startup company called Orimagi, where I was in charge of the development and production of an educational origami robot kit. 
+I'm currently a Robotics PhD student in the [Integrating Design, Engineering, and Analysis (IDEA) Lab](https://idealab.asu.edu/){:target="_blank"} led by Professor Dan Aukes at Arizona State University (ASU) (01/2021 - Present). I received my Master's and Bachelor's degrees in Robotics Engineering from Worcester Polytechic Institue (WPI) (08/2012 - 12/2017). During that time, I was also a research assistant in the [WPI Soft Robotics Lab](https://softrobotics.wpi.edu/){:target="_blank"} run by Professor Cagdas Onal. Before my PhD, I cofounded a startup company called Orimagi, where I was in charge of the development and production of an educational origami robot kit. 
 
-My research focuses on design, fabrication, and control methods for accesible robots. These robots excel at tasks where cost, compliance, and safety are priorities instead of precision and power. Studies of them also help us better balance rigidity and softness, active and passive intelligence within robots for different applications. A list of my publications is available at [Google Scholar](https://scholar.google.com/citations?user=vo0rVaoAAAAJ&hl=en){:target="_blank"}.  
+My research focuses on design, fabrication, and control methods for accessible robots. These robots excel at tasks where cost, compliance, and safety are priorities instead of precision and power. Studies of them also help us better balance rigidity and softness, active and passive intelligence within robots for different applications. A list of my publications is available at [Google Scholar](https://scholar.google.com/citations?user=vo0rVaoAAAAJ&hl=en){:target="_blank"}.  
 
 # <a name="research"></a> Research
 
 ## <a name="laminate quadruped"></a> Laminate Quadruped
 
-At IDEALab, I am developing simulation models, fabrication pipelines, and reinforcement learning framework to enable tuning and optimizations of dynamic laminate robots made from low-cost and compliant materials. The core of the robots are multi-layer, multi-material laminates that are cut, folded, and locked into three-dimensional mechanisms, providing desired motion and stiffness profiles. Even though I am focusing on a quadruped right now, I hope to extend and generalize this process to other platforms. 
+At IDEALab, I am developing simulation models, fabrication pipelines, and reinforcement learning frameworks to enable tuning and optimizations of dynamic laminate robots made from low-cost and compliant materials. The core of the robots are multi-layer, multi-material laminates that are cut, folded, and locked into three-dimensional mechanisms, providing desired motion and stiffness profiles. Even though I am focusing on a quadruped right now, I hope to extend and generalize this process to other platforms. 
 
 <iframe src="https://www.youtube.com/embed/hEq7MrkXNqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <p></p>
@@ -40,7 +40,7 @@ At WPI Soft Robotics Lab, I developed a hierarchical process of designing a seri
 
 ## <a name="pneumetic soft actuators"></a> Pneumetic Soft Actuators
 
-I also designed a series of bending and linear pneumatic soft actuators along with their fabrication processes. The bending one also has integrated curvature sensing. They are the building blocks of a soft snake robot and are also used to study soft robot control algorithms. 
+I also designed a series of bending and linear pneumatic soft actuators and their fabrication processes. The bending one also has integrated curvature sensing. They are the building blocks of a soft snake robot and are also used to study soft robot control algorithms. 
 
 ![soft robots](/assets/img/soft robots.jpg)
 
