@@ -6,7 +6,7 @@ layout: default
 
 <img class="floating-right-image" width="200" src="/assets/img/self.jpg">
 
-I'm currently a robotics PhD candidate in the [Integrating Design, Engineering, and Analysis (IDEA) Lab](https://idealab.asu.edu/){:target="_blank"} led by Professor Dan Aukes at Arizona State University (ASU) (01/2021 - Present). I plan to graduate in 2025 and I am looking for a job in academia or industry. 
+I'm currently a robotics PhD candidate in the [Integrating Design, Engineering, and Analysis (IDEA) Lab](https://idealab.asu.edu/){:target="_blank"} led by Professor Dan Aukes at Arizona State University (ASU) (01/2021 - Present). **I plan to graduate in 2025 and I am looking for a job in academia or industry.** 
 
 I received my Master's and Bachelor's degrees in Robotics Engineering from Worcester Polytechic Institue (WPI) (08/2012 - 12/2017). During that time, I was also a research assistant in the [WPI Soft Robotics Lab](https://softrobotics.wpi.edu/){:target="_blank"} run by Professor Cagdas Onal. Before my PhD, I cofounded a startup company called Orimagi, where I was in charge of the development and production of an educational origami robot kit. 
 
