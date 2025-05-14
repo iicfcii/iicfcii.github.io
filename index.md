@@ -14,7 +14,7 @@ My research used to focus on design, fabrication, and control methods for access
 
 ## <a name="laminate quadruped"></a> Laminate Quadruped
 
-At IDEA Lab, I am developing simulation models, fabrication pipelines, and reinforcement learning frameworks to enable tuning and optimizations of dynamic laminate robots made from low-cost and compliant materials. The core of the robots are multi-layer, multi-material laminates that are cut, folded, and locked into three-dimensional mechanisms, providing desired motion and stiffness profiles. This enables me to parameterize the leg design space and semi-automate the design and fabrication process. Reinforcement learning is leveraged to construct performance map of different designs. Interpretable and insightful performance trends and design principles then naturally emerge from the process. Even though I am focusing on a quadruped right now, I hope to extend and generalize this process to other platforms. 
+At IDEA Lab, I am developing simulation models, fabrication pipelines, and reinforcement learning frameworks to enable tuning and optimization of dynamic laminate robots made from low-cost and compliant materials. The core of the robots are multi-layer, multi-material laminates that are cut, folded, and locked into three-dimensional mechanisms, providing desired motion and stiffness profiles. This enables me to parameterize the leg design space and semi-automate the design and fabrication process. Reinforcement learning is leveraged to construct performance maps of different designs. Interpretable and insightful performance trends and design principles then naturally emerge from the process. Even though I am focusing on a quadruped right now, I hope to extend and generalize this process to other platforms. Here is the [project website](https://idealab.asu.edu/curating-legs-web/){:target="_blank"} for the two most recent papers. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TwjA6ZcSy6o?si=SGgmI3rqjtTDcOTx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <p></p>
@@ -28,9 +28,9 @@ At IDEA Lab, I am developing simulation models, fabrication pipelines, and reinf
 <iframe src="https://www.youtube.com/embed/RLCke-TzDjA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <p></p>
 
-* F. Chen and D. M. Aukes, “Informed Repurposing of Quadruped Legs for New Tasks,” in 2025 IEEE International Conference on Robotics & Automation (ICRA), Accepted, 2025.
+* F. Chen and D. M. Aukes, “Informed Repurposing of Quadruped Legs for New Tasks,” in 2025 IEEE International Conference on Robotics & Automation (ICRA), 2025, Accepted.
 
-* F. Chen and D. M. Aukes, “Curating Tunable, Compliant Legs for Specialized Tasks,” International Journal of Robotics Research, Accepted, 2025.
+* F. Chen and D. M. Aukes, “Curating Tunable, Compliant Legs for Specialized Tasks,” The International Journal of Robotics Research, 2025, Accepted.
 
 * F. Chen, W. Tao, and D. M. Aukes, “Development of A Dynamic Quadruped with Tunable, Compliant Legs,” in 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Detroit, MI, USA: IEEE, Oct. 2023, pp. 495–502. [doi: 10.1109/IROS55552.2023.10342283](https://doi.org/10.1109/IROS55552.2023.10342283){:target="_blank"}.
 
