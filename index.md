@@ -32,11 +32,20 @@ At IDEA Lab, I am developing simulation models, fabrication pipelines, and reinf
 
 * F. Chen and D. M. Aukes, “Informed Repurposing of Quadruped Legs for New Tasks,” in 2025 IEEE International Conference on Robotics & Automation (ICRA), 2025, Accepted.
 
-* F. Chen and D. M. Aukes, “Curating Tunable, Compliant Legs for Specialized Tasks,” The International Journal of Robotics Research, 2025, Accepted.
+* F. Chen and D. M. Aukes, “Curating Tunable, Compliant Legs for Specialized Tasks,” The International Journal of Robotics Research, 2025. [doi:10.1177/02783649251337110](https://doi.org/10.1177/02783649251337110){:target="_blank"}.
 
 * F. Chen, W. Tao, and D. M. Aukes, “Development of A Dynamic Quadruped with Tunable, Compliant Legs,” in 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Detroit, MI, USA: IEEE, Oct. 2023, pp. 495–502. [doi: 10.1109/IROS55552.2023.10342283](https://doi.org/10.1109/IROS55552.2023.10342283){:target="_blank"}.
 
 * F. Chen and D. M. Aukes, “Direct Encoding of Tunable Stiffness Into an Origami-Inspired Jumping Robot Leg,” Journal of Mechanisms and Robotics, vol. 16, no. 3, Mar. 2023, [doi: 10.1115/1.4056958](https://doi.org/10.1115/1.4056958){:target="_blank"}.
+
+## <a name="linkage synthesis"></a> Linkage Synthesis
+In an effort to increase the design space of the quadruped legs, I am developing a GPU-accelerated multi-degree-of-freedom multi-bar planar/spherical linkage synthesis tool. I haven't made any publication about it but here are two preliminary design examples: an 8-bar 1-DoF leg with a V-shaped mechanical advantage curve, and an 8-bar 3-DoF parallel leg with a human-like workspace. I believe this tool has potential beyond leg designs. Please contact me if you are interested. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oXm47yTdrMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vnrzd-xOM-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p></p>
 
 ## <a name="foldable robots"></a> Foldable Robots
 
