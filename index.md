@@ -6,7 +6,7 @@ layout: default
 
 <img class="floating-right-image" width="200" src="/assets/img/self.jpg">
 
-I'm currently a robotics PhD candidate in the [Integrating Design, Engineering, and Analysis (IDEA) Lab](https://idealab.asu.edu/){:target="_blank"} led by Professor Dan Aukes at Arizona State University (ASU) (01/2021 - Present). **I plan to graduate in 2025 and I am looking for a job in academia or industry.** 
+I'm currently a robotics PhD candidate in the [Integrating Design, Engineering, and Analysis (IDEA) Lab](https://idealab.asu.edu/){:target="_blank"} led by Professor Dan Aukes at Arizona State University (ASU) (01/2021 - Present). **I plan to graduate in December 2025, and I am looking for a job in academia or industry.** 
 
 I received my Master's and Bachelor's degrees in Robotics Engineering from Worcester Polytechic Institue (WPI) (08/2012 - 12/2017). During that time, I was also a research assistant in the [WPI Soft Robotics Lab](https://softrobotics.wpi.edu/){:target="_blank"} run by Professor Cagdas Onal. Before my PhD, I cofounded a startup company called Orimagi, where I was in charge of the development and production of an educational origami robot kit. 
 
@@ -30,9 +30,9 @@ At IDEA Lab, I am developing simulation models, fabrication pipelines, and reinf
 <iframe src="https://www.youtube.com/embed/RLCke-TzDjA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <p></p>
 
-* F. Chen and D. M. Aukes, “Informed Repurposing of Quadruped Legs for New Tasks,” in 2025 IEEE International Conference on Robotics & Automation (ICRA), 2025, Accepted.
+* F. Chen and D. M. Aukes, “Informed Repurposing of Quadruped Legs for New Tasks,” in 2025 IEEE International Conference on Robotics and Automation (ICRA), May 2025, pp. 2584–2590. [doi:10.1109/ICRA55743.2025.11128237](https://doi.org/10.1109/ICRA55743.2025.11128237){:target="_blank"}.
 
-* F. Chen and D. M. Aukes, “Curating Tunable, Compliant Legs for Specialized Tasks,” The International Journal of Robotics Research, 2025. [doi:10.1177/02783649251337110](https://doi.org/10.1177/02783649251337110){:target="_blank"}.
+* F. Chen and D. M. Aukes, “Curating Tunable, Compliant Legs for Specialized Tasks,” The International Journal of Robotics Research, May 2025. [doi:10.1177/02783649251337110](https://doi.org/10.1177/02783649251337110){:target="_blank"}.
 
 * F. Chen, W. Tao, and D. M. Aukes, “Development of A Dynamic Quadruped with Tunable, Compliant Legs,” in 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Detroit, MI, USA: IEEE, Oct. 2023, pp. 495–502. [doi: 10.1109/IROS55552.2023.10342283](https://doi.org/10.1109/IROS55552.2023.10342283){:target="_blank"}.
 
@@ -46,6 +46,12 @@ In an effort to increase the design space of the quadruped legs, I am developing
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vnrzd-xOM-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <p></p>
+
+Here is a visulization of the gradient-based optimization process for a six-bar leg design. Many initial designs are sampled and optimized in parallel on GPU to get closer to the global optimum. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ovCwTV4m6Nc?si=JDrQ5l0wm2EcrFpL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p></p>
+
 
 ## <a name="foldable robots"></a> Foldable Robots
 
